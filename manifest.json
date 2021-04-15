@@ -1,0 +1,12 @@
+{
+	"name": "Ev.io Css Injector",
+	"version": "0.1",
+	"manifest_version": 2,
+	"description": "Made by marv <3",
+	"content_scripts": [
+		{
+			"matches": [ "https://ev.io/*" ],
+			"css": ["styles.css"]
+		}
+	]
+}
