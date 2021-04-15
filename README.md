@@ -7,4 +7,4 @@
 4. Drag and drop the extracted folder.
 
 ## How to change the css.
-Edit the css contained in the `styles.css` file.
+Edit the css contained in the `styles.css` file. After editing and saving be sure to reload the extensions on your extenions page.
