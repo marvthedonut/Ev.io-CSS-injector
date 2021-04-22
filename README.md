@@ -1,4 +1,6 @@
 # Ev.io-CSS-injector
+[![Total downloads](https://img.shields.io/github/downloads/marvthedonut/Ev.io-CSS-injector/total)](https://github.com/marvthedonut/Ev.io-CSS-injector/releases)
+
 
 ## How to install.
 1. To install click https://github.com/marvthedonut/Ev.io-CSS-injector/releases/latest and download the `Injector.zip`.
